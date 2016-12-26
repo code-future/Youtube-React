@@ -1,5 +1,11 @@
-# Best-Boilerplate
-My favorite boilerplate for projects. Responsive HTML, Express server with compression, morgan and body parser. 404 Page. Modenizr and Jquery
+# Best REACT Boilerplate
+#### Yea boiii you already know what it is. This baby comes shipped with:
+1. Express
+2. React
+3. Webpack
+4. ES6/Babel
+
+
 
 
 ## HOW TO USE
